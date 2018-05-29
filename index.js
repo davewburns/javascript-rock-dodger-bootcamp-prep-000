@@ -153,7 +153,7 @@ function moveDodger(e) {
     if (code === RIGHT_ARROW) {
         moveDodgerRight();
      } 
-     }
+     
      
      /* switch (e.which) {
        
@@ -169,7 +169,7 @@ function moveDodger(e) {
      } */
      
      
-   });
+   }
    
 }
 
