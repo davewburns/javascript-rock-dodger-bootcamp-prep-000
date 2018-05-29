@@ -146,7 +146,7 @@ function moveDodger(e) {
    
    
    
-   document.addEventListener('keydown', function(e) {
+  // document.addEventListener('keydown', function(e) {
      if (code === LEFT_ARROW){
        moveDodgerLeft();
      } else {
